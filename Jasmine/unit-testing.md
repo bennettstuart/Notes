@@ -61,19 +61,24 @@ Karma runs all --.tests.js files in tests directory *I think*.
 "xdescribe" and "xit" tags are skipped!  
 
 (not checked but -->) *"If you change a **describe** or **it** block to **ddescribe** or **iit** respectively Karma (Angular’s test runner) will run only that block. This is called stuttering and it is very useful if you don’t want to run your entire test suite every time, as the larger the codebase gets the longer this will take to do."*
-<hr />
+
+-----
+
 ### What is Unit Testing?
 <b>Unit testing</b> is a software development process in which the smallest testable parts of an application, called units, are individually and independently scrutinized for proper operation. Unit testing is often automated but it can also be done manually.
-<hr />
+
+-----
+
 ### Advantages of Unit Testing
-####Time
+#### Time
 Setting up unit tests for components of software may take some time. However, once set up, the created unit tests can be ran countless times whenever created software runs into problems. Thus creating a much shorter debugging cycle.  
 In addition, when creating a new piece of code you can quickly create a mock environment to test all functions to ensure it all works as expected *before* you implement further.
-####Reliability
+#### Reliability
 Creating tests for each small component of software allows developers to apply or inject components into pieces of software exactly as they stand. Thus creating a library of components that will work exactly as they say on the 
 
-<hr />
-###Useful Resources
+-----
+
+### Useful Resources
 
 [a simple starting setup guide](http://mcgivery.com/unit-testing-ionic-app/)
 
