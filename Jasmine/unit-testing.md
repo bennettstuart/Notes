@@ -1,6 +1,8 @@
-#Ionic(AngularJS) Unit Testing!
+# Ionic(AngularJS) Unit Testing!
 ## Everything You Need to Know !!
-<hr />
+
+-----
+
 ### Setting up
 At the root of your project folder:-  
 
