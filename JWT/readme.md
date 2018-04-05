@@ -1,4 +1,4 @@
- # JWTs
+# JWTs
 
 JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.  The claims in a JWT are encoded as a JSON object that is used as the payload of a JSON Web Signature (JWS) structure or as the plaintext of a JSON Web Encryption (JWE) structure, enabling the claims to be digitally signed or integrity protected with a Message Authentication Code (MAC) and/or encrypted.
 
@@ -136,9 +136,3 @@ Implicit flow is a concept used by client-side apps use in order to access an AP
     4. Check the Client permissions (scopes)
 
   ​
-
-# Task: 
-
-- give my node.js app another identity to authenticate against on the Auth0 account
-- edit my YAML to be able to do the Security request - the request to authenticate with Auth0
-
