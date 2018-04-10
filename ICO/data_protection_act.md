@@ -1,10 +1,10 @@
-# Data Protection Act
+# Data Protection Act
 
 This document is a brief summary and notes from information on the [ICO website](https://ico.org.uk/for-organisations/guide-to-data-protection/). The notes taken here are only to aid in memorisation and recall. This document isn't here to inform and, At the time of reading this, it is important to be aware that some of the writings here may be out of date.
 
 ## [Key Definitions](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/)
 
-### Data
+### Data
 
 > **Data** means information which –
 >
@@ -28,7 +28,7 @@ This document is a brief summary and notes from information on the [ICO website]
 >
 > and includes any expression of opinion about the individual and any indication of the intentions of the data controller or any other person in respect of the individual.
 
-### Sensitive Personal Data
+### Sensitive Personal Data
 
 > **Sensitive personal data** means personal data consisting of information as to -
 >
